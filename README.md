@@ -6,3 +6,4 @@ Please enter your topics [here](https://docs.google.com/spreadsheets/d/1v-RYD-E_
 Some sample topics have been provided [here](https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing). You are free to use them or come up with your own topics!
 
 ## Due: Nov 7th, 2021 at 11:59 pm CST
+Description: Overview of paper and most important research papers built on top of BERT
